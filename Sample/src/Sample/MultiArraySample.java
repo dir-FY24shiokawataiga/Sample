@@ -1,5 +1,7 @@
 package Sample;
 
+import javax.security.auth.x500.X500Principal;
+
 public class MultiArraySample {
 
     public static void main(String[] args) {
